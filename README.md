@@ -1,0 +1,3 @@
+# Jogo de Damas
+
+Este projeto foi desenvolvido como atividade do curso Técnico em Informática para a Internet do SENAI. A aplicação consiste em um jogo de damas desenvolvido com HTML, CSS e JavaScript, permitindo que dois jogadores disputem uma partida diretamente no navegador. Durante o desenvolvimento, foram aplicados conceitos de estruturação de páginas, estilização com CSS, manipulação do DOM e lógica de programação em JavaScript para implementar as regras básicas do jogo, incluindo movimentação das peças, capturas, promoção para dama e alternância de turnos. O projeto tem como objetivo consolidar os conhecimentos adquiridos ao longo do curso por meio da criação de uma aplicação web interativa e funcional.
